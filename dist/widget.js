@@ -86,7 +86,7 @@ module.exports = (function () {
         sandbox: false,
         lightbox: {},
         childWindow: {},
-        host: 'secure.xsolla.com',
+        host: 'secure.paycore.srv.local',
         iframeOnly: false
     };
     var SANDBOX_PAYSTATION_URL = 'https://sandbox-secure.xsolla.com/paystation2/?';
